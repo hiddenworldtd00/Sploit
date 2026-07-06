@@ -285,14 +285,14 @@ class HackerTchadSploite:
         banner = f"""
 {Colors.CYAN}╔══════════════════════════════════════════════════════════════════════════════╗
 ║{Colors.END}                                                                              {Colors.CYAN}║
-║{Colors.RED}   ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗      ████████╗ ██████╗    {Colors.CYAN}║
-║{Colors.RED}   ██║  ██║██╔══██╗██╔════╝██║  ██║██╔════╝██╔══██╗     ╚══██╔══╝██╔════╝    {Colors.CYAN}║
-║{Colors.RED}   ███████║███████║██║     ███████║█████╗  ██████╔╝        ██║   ██║         {Colors.CYAN}║
-║{Colors.RED}   ██╔══██║██╔══██║██║     ██╔══██║██╔══╝  ██╔══██╗        ██║   ██║         {Colors.CYAN}║
-║{Colors.RED}   ██║  ██║██║  ██║╚██████╗██║  ██║███████╗██║  ██║        ██║   ╚██████╗    {Colors.CYAN}║
-║{Colors.RED}   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝        ╚═╝    ╚═════╝    {Colors.CYAN}║
+║{Colors.RED}                                                                              {Colors.CYAN}║
+║{Colors.RED}                                                                              {Colors.CYAN}║
+║{Colors.RED}                                                                              {Colors.CYAN}║
+║{Colors.RED}                    ▂▃▅▇█▓▒░𝙷𝙰𝙲𝙺𝙴𝚁_𝚃𝙲𝙷𝙰𝙳𝚂𝙿𝙻𝙾𝙸𝚃░▒▓█▇▅▃▂                {Colors.CYAN}║
+║{Colors.RED}                                                                              {Colors.CYAN}║
+║{Colors.RED}                                                                              {Colors.CYAN}║
 ║{Colors.END}                                                                              {Colors.CYAN}║
-║{Colors.YELLOW}                    SPLOITE - Framework Éducatif Offensif                      {Colors.CYAN}║
+║{Colors.YELLOW}                    SPLOITE - Framework Éducatif Offensif                  {Colors.CYAN}║
 ║{Colors.END}                                                                              {Colors.CYAN}║
 ║{Colors.GREEN}   Développé par : {Colors.BOLD}HiddenWorld Communauté Tchadien{Colors.END}{Colors.GREEN}                           {Colors.CYAN}║
 ║{Colors.GREEN}   Version : {Colors.BOLD}{self.version}{Colors.END}{Colors.GREEN}                                                       {Colors.CYAN}║
